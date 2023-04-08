@@ -8,6 +8,12 @@
 - 支持手动关闭 API 而无需停用插件
 - 支持设置接口 Token
 
+## 安装
+
+```shell
+yarn add https://github.com/uyloal/koishi-plugin-api-service
+```
+
 ## 配置项
 
 | 字段    | 类型   | 是否必须 | 描述             |
