@@ -1,0 +1,31 @@
+{
+  "name": "koishi-plugin-api-service",
+  "description": "Send message by API.",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "contributors": [
+    "Uyloal <uyloal@foxmail.com>"
+  ],
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin",
+    "API"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.12.3"
+  },
+  "homepage": "https://github.com/uyloal/koishi-plugin-api-service",
+  "bugs": "https://github.com/uyloal/koishi-plugin-api-service/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uyloal/koishi-plugin-api-service.git"
+  }
+}
